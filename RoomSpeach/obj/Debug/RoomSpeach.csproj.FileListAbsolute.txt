@@ -1,0 +1,23 @@
+\\mac\home\documents\visual studio 2015\Projects\RoomSpeach\RoomSpeach\bin\Debug\RoomSpeach.exe.config
+\\mac\home\documents\visual studio 2015\Projects\RoomSpeach\RoomSpeach\bin\Debug\RoomSpeach.exe
+\\mac\home\documents\visual studio 2015\Projects\RoomSpeach\RoomSpeach\bin\Debug\RoomSpeach.pdb
+\\mac\home\documents\visual studio 2015\Projects\RoomSpeach\RoomSpeach\obj\Debug\RoomSpeach.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\RoomSpeach\RoomSpeach\obj\Debug\RoomSpeach.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\RoomSpeach\RoomSpeach\obj\Debug\RoomSpeach.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\RoomSpeach\RoomSpeach\obj\Debug\RoomSpeach.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\RoomSpeach\RoomSpeach\obj\Debug\RoomSpeach.exe
+\\mac\home\documents\visual studio 2015\Projects\RoomSpeach\RoomSpeach\obj\Debug\RoomSpeach.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\RoomSpeach\RoomSpeach\obj\Debug\RoomSpeach.csproj.ResolveComReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\RoomSpeach\RoomSpeach\bin\Debug\NAudio.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\RoomSpeach\RoomSpeach\bin\Debug\NAudio.xml
+F:\Projects\RoomSpeach\RoomSpeach\bin\Debug\RoomSpeach.exe.config
+F:\Projects\RoomSpeach\RoomSpeach\obj\Debug\RoomSpeach.csproj.ResolveComReference.cache
+F:\Projects\RoomSpeach\RoomSpeach\obj\Debug\RoomSpeach.exe
+F:\Projects\RoomSpeach\RoomSpeach\obj\Debug\RoomSpeach.pdb
+F:\Projects\RoomSpeach\RoomSpeach\bin\Debug\RoomSpeach.exe
+F:\Projects\RoomSpeach\RoomSpeach\bin\Debug\RoomSpeach.pdb
+F:\Projects\RoomSpeach\RoomSpeach\bin\Debug\NAudio.xml
+F:\Projects\RoomSpeach\RoomSpeach\obj\Debug\RoomSpeach.csprojResolveAssemblyReference.cache
+F:\Projects\RoomSpeach\RoomSpeach\obj\Debug\RoomSpeach.Form1.resources
+F:\Projects\RoomSpeach\RoomSpeach\obj\Debug\RoomSpeach.Properties.Resources.resources
+F:\Projects\RoomSpeach\RoomSpeach\obj\Debug\RoomSpeach.csproj.GenerateResource.Cache

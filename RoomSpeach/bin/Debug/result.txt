@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recognitionResults success="1">
+	<variant confidence="-1.5">погода на сегодня утром облачно - 10 днем ясно - 5 вечером ясно - 7 ночей легкий снег - 8</variant>
+	<variant confidence="-1.5">погода на сегодня утром область на - 10 днем ясно - 5 вечером ясно - 7 ночей легкий снег - 8</variant>
+</recognitionResults>
